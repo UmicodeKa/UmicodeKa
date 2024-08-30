@@ -1,10 +1,7 @@
 - 📚I'm pursuing a career as a full-stack engineer, dedicating myself to personal projects and developing new products at an IT company.
 - 🪴My goal is to use the IT skills I've acquired to benefit and improve the lives of the important people around me.
 
-```text
-          __
- \ ______/ V`-,
-  }        /~~
- /_)^ --,r'
-|b      |b             🍞    🥖    🥐    🌭    🏠
-```
+[![GitHub stats](https://github-readme-stats-sigma-eight-96.vercel.app/api?username=UmicodeKa&show_icons=true&theme=github_dark_dimmed#gh-dark-mode-only)](https://github.com/UmicodeKa/github-readme-stats#gh-dark-mode-only)
+[![GitHub stats](https://github-readme-stats-sigma-eight-96.vercel.app/api?username=UmicodeKa&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/UmicodeKa/github-readme-stats#gh-light-mode-only)
+[![Top Langs](https://github-readme-stats-sigma-eight-96.vercel.app/api/top-langs/?username=UmicodeKa&layout=compact&exclude_repo=github-readme-stats,le_exif,le_mark_lift,le_umi_gallery_1,le_umi_gallery_2,le_UnoMayu_Foods,ITL_CSharpPractice-01,ITL_TSPractice-02&langs_count=8&theme=github_dark_dimmed#gh-dark-mode-only)](https://github.com/UmicodeKa/github-readme-stats#gh-dark-mode-only)
+[![Top Langs](https://github-readme-stats-sigma-eight-96.vercel.app/api/top-langs/?username=UmicodeKa&layout=compact&exclude_repo=github-readme-stats,le_exif,le_mark_lift,le_umi_gallery_1,le_umi_gallery_2,le_UnoMayu_Foods,ITL_CSharpPractice-01,ITL_TSPractice-02&langs_count=8&theme=default#gh-light-mode-only)](https://github.com/UmicodeKa/github-readme-stats#gh-light-mode-only)
